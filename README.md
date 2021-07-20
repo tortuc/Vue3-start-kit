@@ -1,4 +1,4 @@
-# Vue3 start kit contains user login
+# Vue3 start kit that contains user login
 
 ## Project setup
 ```
